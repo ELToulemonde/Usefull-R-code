@@ -21,6 +21,7 @@ install.packages("ROCR")
 
 ## Visualization packages
 install.packages("ggplot2")
+install.packages("shiny")
 
 ## Parallel computation
 install.packages("foreach")
