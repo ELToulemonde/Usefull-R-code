@@ -30,6 +30,7 @@ install.packages("snowfall")
 ## Code packaging
 install.packages("devtools")
 install.packages("testthat")
+install.packages("covr")
 install.packages("RUnit")
 install.packages("roxygen2")
 install.packages("knitr")
