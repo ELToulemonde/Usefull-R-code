@@ -32,6 +32,7 @@ install.packages("snowfall")
 install.packages("devtools")
 install.packages("testthat")
 install.packages("covr")
+install.packages("DT") # necessary for covr
 install.packages("RUnit")
 install.packages("roxygen2")
 install.packages("knitr")
